@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 430" role="img" aria-labelledby="title desc">
+  <title id="title">African Bold Safari Logo</title>
+  <desc id="desc">Oval African Bold Safari logo with a sunbird, acacia tree, safari landscape, and Raw Nature Bold Vision tagline.</desc>
+  <defs>
+    <linearGradient id="paper" x1="84" x2="832" y1="70" y2="348" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ead3a2"/>
+      <stop offset=".52" stop-color="#cfab73"/>
+      <stop offset="1" stop-color="#a98254"/>
+    </linearGradient>
+    <linearGradient id="birdBody" x1="125" x2="244" y1="107" y2="250" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#112b2d"/>
+      <stop offset=".24" stop-color="#0f706f"/>
+      <stop offset=".48" stop-color="#1ba8a0"/>
+      <stop offset=".66" stop-color="#8f1920"/>
+      <stop offset=".86" stop-color="#0d1715"/>
+    </linearGradient>
+    <linearGradient id="savanna" x1="225" x2="750" y1="206" y2="290" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#7d7546"/>
+      <stop offset=".55" stop-color="#b99a60"/>
+      <stop offset="1" stop-color="#655f36"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-12%" width="120%" height="124%" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="7" flood-color="#100f0b" flood-opacity=".22" stdDeviation="7"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <ellipse cx="460" cy="215" rx="413" ry="168" fill="url(#paper)"/>
+    <ellipse cx="460" cy="215" rx="398" ry="153" fill="none" stroke="#17130d" stroke-width="9"/>
+    <ellipse cx="460" cy="215" rx="379" ry="136" fill="none" stroke="#2c2417" stroke-width="3"/>
+  </g>
+
+  <path d="M103 253c82-35 159-53 231-52 65 0 118 18 176 14 66-5 117-32 193-21 49 7 86 28 116 53v69H103Z" fill="url(#savanna)" opacity=".72"/>
+  <path d="M224 233c31-26 55-37 78-28 17 7 31 24 51 20 23-4 37-27 68-18 21 6 35 23 53 38H224Z" fill="#5f5434" opacity=".62"/>
+  <path d="M257 222c29-20 56-30 84-27 34 4 58 25 84 48-30 3-51-8-73-15-30-9-55 7-95-6Z" fill="#827248" opacity=".55"/>
+
+  <g transform="translate(585 70)">
+    <path d="M81 94c4-34 36-62 86-62 58 0 91 33 89 72-45-21-102-28-175-10Z" fill="#17130d"/>
+    <path d="M166 91c5 45 3 87-8 130-5 19-6 43 4 65h30c-15-31-15-60-9-86 11-48 7-82-2-111Z" fill="#17130d"/>
+    <path d="M73 111c52-23 88-28 123-21 37 8 62 29 95 49-29 7-49 1-70-8-34-14-64 6-148-20Z" fill="#17130d"/>
+    <path d="M139 91c-21-24-45-36-76-38 7 26 29 42 76 38Z" fill="#17130d"/>
+    <path d="M203 96c25-27 57-40 98-35-17 28-45 41-98 35Z" fill="#17130d"/>
+  </g>
+
+  <g transform="translate(88 58)">
+    <path d="M35 182c42-22 81-40 122-52 65-19 129-22 197-11" fill="none" stroke="#241c10" stroke-linecap="round" stroke-width="8"/>
+    <path d="M54 174c29-11 60-14 91-7" fill="none" stroke="#241c10" stroke-linecap="round" stroke-width="4"/>
+    <path d="M89 102c24-35 79-28 111 11 18 22 48 27 76 22-38 45-96 65-147 43-40-18-62-45-40-76Z" fill="url(#birdBody)"/>
+    <path d="M165 105c-14-33 10-61 48-69 4 41-16 61-48 69Z" fill="#10160f"/>
+    <path d="M103 99c-22-18-16-46 12-63 24 28 21 49-12 63Z" fill="#12201b"/>
+    <path d="M197 98c33-3 67-2 103 7-38 19-73 23-103-7Z" fill="#10160f"/>
+    <path d="M82 105c-30-5-51-17-69-37 34-5 59 4 69 37Z" fill="#10160f"/>
+    <path d="M137 91c5 13 24 20 42 15" fill="none" stroke="#e4c189" stroke-linecap="round" stroke-width="5"/>
+    <circle cx="130" cy="79" r="6" fill="#f1d497"/>
+    <path d="M188 174c-14 28-46 51-92 61 15-29 45-51 92-61Z" fill="#10160f"/>
+    <path d="M142 170c-17 22-43 35-79 39 15-24 41-38 79-39Z" fill="#172015"/>
+  </g>
+
+  <g transform="translate(438 180)" opacity=".82">
+    <path d="M22 38c16-22 36-22 53-2 14-24 40-32 66-6 19-24 45-25 73 8Z" fill="#8b7b52"/>
+    <path d="M0 57h248" stroke="#514225" stroke-linecap="round" stroke-width="4"/>
+  </g>
+
+  <g transform="translate(356 237)">
+    <text x="0" y="0" fill="#14100a" font-family="Arial Black, Impact, sans-serif" font-size="58" font-weight="900" letter-spacing="4">AFRICAN</text>
+    <text x="0" y="59" fill="#14100a" font-family="Arial Black, Impact, sans-serif" font-size="58" font-weight="900" letter-spacing="3">BOLD SAFARI</text>
+    <path d="M21 85h120M314 85h120" stroke="#17130d" stroke-linecap="round" stroke-width="5"/>
+    <text x="158" y="94" fill="#18140d" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="800" letter-spacing="5">RAW NATURE. BOLD VISION</text>
+    <path d="M220 118c9-15 24-15 33 0 6 10 2 24-16 24s-23-14-17-24Z" fill="#17130d"/>
+    <circle cx="212" cy="108" r="7" fill="#17130d"/>
+    <circle cx="228" cy="101" r="7" fill="#17130d"/>
+    <circle cx="245" cy="101" r="7" fill="#17130d"/>
+    <circle cx="260" cy="108" r="7" fill="#17130d"/>
+  </g>
+</svg>
